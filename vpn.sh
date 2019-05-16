@@ -13,7 +13,7 @@ killall openconnect
 sudo openconnect --protocol=anyconnect --no-dtls vpnaccess.nd.edu/mfa -s /etc/vpnc/vpnc-script
 
 # or you can alias is to vpn, which is what I do
-# alias vpn='sudo openconnect --protocol=anyconnect --no-dtls --passwd-on-stdin vpnaccess.nd.edu/mfa -s /etc/vpnc/vpnc-script'
+# alias vpn='sudo openconnect --protocol=anyconnect --no-dtls vpnaccess.nd.edu/mfa -s /etc/vpnc/vpnc-script'
 
 # if you don't want to sign in every time, you can do this:
 # alias vpn='echo "YOUR_PASSWORD" | sudo openconnect --protocol=anyconnect --no-dtls --user=YOUR_USERNAME --passwd-on-stdin vpnaccess.nd.edu/mfa -s /etc/vpnc/vpnc-script'
