@@ -66,6 +66,7 @@ There are meta-packages and scripts geared toward specific use cases:
 * Printing
   * Current print drivers for Linux not functioning
   * There is a [solution written in Python 2.7](https://github.com/junaidali/pharos-linux), which is not usable, however maybe we can learn from it 
+  * Documentation from [MIT](http://kb.mit.edu/confluence/display/istcontrib/Set+up+Pharos+as+an+LPR+network+printer+on+Ubuntu) on how they do it
 * Wireless
   * Eduroam drivers, the provided ones also outdated (we think)
   * Cisco AnyConnect VPN Profile - see [vpn.sh](https://github.com/NDLUG/bazaar/blob/master/vpn.sh)
