@@ -43,14 +43,18 @@ We wish to have a **live** and **installable** version of each of the following 
 
 ## Layers
 
+:eight_pointed_black_star: = has a snap package available
+
 There are meta-packages and scripts geared toward specific use cases:
 
 1. **Courses**
 
 * Introduction to Engineering
   * Easy MATLAB instructions
-  * FileZilla
-  * LibreSuite (Excel needed...)
+    * GNU Octave :eight_pointed_black_star:
+  * FileZilla (unofficial :eight_pointed_black_star:)
+  * LibreSuite (Excel needed...) :eight_pointed_black_star:
+  * freecad :eight_pointed_black_star:
 * Principles of Computing
 * Elements of Computing
 * Fundamentals of Computing
@@ -74,34 +78,45 @@ There are meta-packages and scripts geared toward specific use cases:
   * Something with Okta?
   
 3. **Activity**
+
 * Gaming
   * Steam
   * Lutris
   * PlayOnLinux
-  * WineStaging?
+  * WineStaging? :eight_pointed_black_star:
 * Web Development
   * VueJS / React
-  * VSCode / Atom
+  * VSCode/VSCodium :eight_pointed_black_star:
+  * Atom :eight_pointed_black_star:
+  * WebStorm :eight_pointed_black_star:
+  * Sublime :eight_pointed_black_star:
+  * Docker :eight_pointed_black_star:
 * Android Development
-  * Android Studio + ADB Drivers
+  * Android Studio + ADB Drivers :eight_pointed_black_star:
 * Media Production
   * Kdenlive vs. DaVinci Resolve
-  * Audacity
-  * OBS Studio
+  * Audacity :eight_pointed_black_star:
+  * OBS Studio :eight_pointed_black_star:
+  * FFMpeg :eight_pointed_black_star:
+  * VLC :eight_pointed_black_star:
+  * Blender :eight_pointed_black_star:
 * Graphics
   * AMD Drivers
   * NVidia Drivers
 * Casual Use
-  * Slack
-  * Chrome/Firefox/insert another browser here
-  * Discord
-  * Spotify
+  * Vim 
+  * Slack :eight_pointed_black_star:
+  * Chrome/Firefox/Brave/insert another browser here :eight_pointed_black_star:
+  * Discord :eight_pointed_black_star:
+  * Spotify :eight_pointed_black_star: 
+  * Google Play Music :eight_pointed_black_star:
   * Etcher
-  * Telegram
-  * Signal
+  * Telegram :eight_pointed_black_star:
+  * Signal :eight_pointed_black_star:
   * WhatsApp
   * Clients for OneDrive / DropBox / Google Drive ?
-  * Skype ?
+      * There is OpenDrive :eight_pointed_black_star:
+  * Skype ? :eight_pointed_black_star:
   
 ## Utilities
 
